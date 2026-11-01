@@ -15,9 +15,9 @@ public class Newfile {
             System.out.println("Enter second number:");
             int num2 = sc.nextInt();
 
-            int sum = num1 + num2;
+            int add = num1 + num2;
 
-            System.out.println("Addition = " + sum);
+            System.out.println("Addition = " + add);
 
             sc.close();
         }
